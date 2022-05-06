@@ -1,0 +1,15 @@
+{
+  "name": "jest-repro-security-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chrisbobbe",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "jest-environment-jsdom": "^28.0.2",
+    "jest-environment-jsdom-global": "^3.1.1"
+  }
+}
